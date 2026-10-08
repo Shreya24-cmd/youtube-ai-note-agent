@@ -1,5 +1,4 @@
 google-genai
-mysql-connector-python
 streamlit
 youtube-transcript-api
 fpdf2
